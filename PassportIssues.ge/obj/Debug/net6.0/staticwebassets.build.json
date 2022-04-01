@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3IpkC5AilZAeGBAWbJWq4q8UG2hrdZgq6Ay5Lt7oMnU=",
+  "Source": "PassportIssues.API",
+  "BasePath": "_content/PassportIssues.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

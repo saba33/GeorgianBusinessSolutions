@@ -1,0 +1,17 @@
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\bin\Debug\net6.0\PassportIssues.Repository.deps.json
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\bin\Debug\net6.0\PassportIssues.Repository.runtimeconfig.json
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\bin\Debug\net6.0\PassportIssues.Repository.dll
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\bin\Debug\net6.0\PassportIssues.Repository.pdb
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\bin\Debug\net6.0\PassportIssues.Domain.dll
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\bin\Debug\net6.0\PassportIssues.Domain.pdb
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\obj\Debug\net6.0\PassportIssues.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\obj\Debug\net6.0\PassportIssues.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\obj\Debug\net6.0\PassportIssues.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\obj\Debug\net6.0\PassportIssues.Repository.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\obj\Debug\net6.0\PassportIssues.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\obj\Debug\net6.0\PassportIssues.Repository.csproj.CopyComplete
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\obj\Debug\net6.0\PassportIssues.Repository.dll
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\obj\Debug\net6.0\refint\PassportIssues.Repository.dll
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\obj\Debug\net6.0\PassportIssues.Repository.pdb
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\obj\Debug\net6.0\PassportIssues.Repository.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.Repository\obj\Debug\net6.0\ref\PassportIssues.Repository.dll
