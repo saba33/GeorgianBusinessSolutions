@@ -14,11 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\PassportIssues.Repository\PassportIssues.Repository.csproj" />
+    <ProjectReference Include="..\PassportIssues.Services\PassportIssues.Services.csproj" />
   </ItemGroup>
 
 </Project>

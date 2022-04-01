@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\MoviesItAcademy.ge\\PassportIssues.ge\\Domain\\PassportIssues.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\GeorgianBusinessSolutions\\Domain\\PassportIssues.Domain.csproj",
       "projectName": "PassportIssues.Domain",
-      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\MoviesItAcademy.ge\\PassportIssues.ge\\Domain\\PassportIssues.Domain.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\GeorgianBusinessSolutions\\Domain\\PassportIssues.Domain.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\MoviesItAcademy.ge\\PassportIssues.ge\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\GeorgianBusinessSolutions\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

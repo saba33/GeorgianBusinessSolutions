@@ -63,3 +63,5 @@ C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssu
 C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.ge\bin\Debug\net6.0\PassportIssues.Repository.dll
 C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.ge\bin\Debug\net6.0\PassportIssues.Repository.pdb
 C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.ge\bin\Debug\net6.0\PassportIssues.Domain.pdb
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.ge\bin\Debug\net6.0\PassportIssues.Services.dll
+C:\Users\user\Documents\GitHub\MoviesItAcademy.ge\PassportIssues.ge\PassportIssues.ge\bin\Debug\net6.0\PassportIssues.Services.pdb

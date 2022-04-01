@@ -2080,11 +2080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\MoviesItAcademy.ge\\PassportIssues.ge\\PassportIssues.ge\\PassportIssues.API.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\GeorgianBusinessSolutions\\PassportIssues.ge\\PassportIssues.API.csproj",
       "projectName": "PassportIssues.API",
-      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\MoviesItAcademy.ge\\PassportIssues.ge\\PassportIssues.ge\\PassportIssues.API.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\GeorgianBusinessSolutions\\PassportIssues.ge\\PassportIssues.API.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\MoviesItAcademy.ge\\PassportIssues.ge\\PassportIssues.ge\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\GeorgianBusinessSolutions\\PassportIssues.ge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2101,11 +2101,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\Documents\\GitHub\\MoviesItAcademy.ge\\PassportIssues.ge\\PassportIssues.Repository\\PassportIssues.Repository.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\GitHub\\MoviesItAcademy.ge\\PassportIssues.ge\\PassportIssues.Repository\\PassportIssues.Repository.csproj"
+            "C:\\Users\\user\\Documents\\GitHub\\GeorgianBusinessSolutions\\PassportIssues.Repository\\PassportIssues.Repository.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\GitHub\\GeorgianBusinessSolutions\\PassportIssues.Repository\\PassportIssues.Repository.csproj"
             },
-            "C:\\Users\\user\\Documents\\GitHub\\MoviesItAcademy.ge\\PassportIssues.ge\\PassportIssues.Services\\PassportIssues.Services.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\GitHub\\MoviesItAcademy.ge\\PassportIssues.ge\\PassportIssues.Services\\PassportIssues.Services.csproj"
+            "C:\\Users\\user\\Documents\\GitHub\\GeorgianBusinessSolutions\\PassportIssues.Services\\PassportIssues.Services.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\GitHub\\GeorgianBusinessSolutions\\PassportIssues.Services\\PassportIssues.Services.csproj"
             }
           }
         }

@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "6.0.3",
           "PassportIssues.Repository": "1.0.0",
+          "PassportIssues.Services": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
@@ -489,6 +490,15 @@
         "runtime": {
           "PassportIssues.Repository.dll": {}
         }
+      },
+      "PassportIssues.Services/1.0.0": {
+        "dependencies": {
+          "PassportIssues.Domain": "1.0.0",
+          "PassportIssues.Repository": "1.0.0"
+        },
+        "runtime": {
+          "PassportIssues.Services.dll": {}
+        }
       }
     }
   },
@@ -840,6 +850,11 @@
       "sha512": ""
     },
     "PassportIssues.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PassportIssues.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

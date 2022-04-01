@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hRto2Ebv4eHjhdq0gNAXUgwdwzS/2O2vdxKZwCAeLDSIGdBvPvDIkEnBpjEAO0/71zT6EBNp7RmEvj6ObNkiiw==",
+  "dgSpecHash": "br1q3RRPRSedDDl4Bze5mQaJ89aUgV+XKh2psaIrfCLx5Ni5crC/DcmLWTiHwLo/FvRIeEorDZ8tudzXlOLuhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\MoviesItAcademy.ge\\PassportIssues.ge\\PassportIssues.Services\\PassportIssues.Services.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\GeorgianBusinessSolutions\\PassportIssues.Services\\PassportIssues.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

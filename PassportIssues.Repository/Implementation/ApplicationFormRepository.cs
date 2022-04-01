@@ -9,15 +9,15 @@ using System.Threading.Tasks;
 
 namespace PassportIssues.Repository.Implementation
 {
-    public class ApplicationFromRepository : IApplicationFormRepository
+    public class ApplicationFormRepository : IApplicationFormRepository
     {
         #region private members
-        private readonly DbContext _context;
-        private readonly DbSet<FormModel> _dbSet;
+        protected readonly DbContext _context;
+        protected readonly DbSet<FormModel> _dbSet;
         #endregion
 
         #region Public Members
-        public ApplicationFromRepository(DbContext context, DbSet<FormModel> dbSet)
+        public ApplicationFormRepository(DbContext context)
         {
             _context = context;
             _dbSet  = context.Set<FormModel>();

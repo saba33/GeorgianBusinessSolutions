@@ -12,8 +12,12 @@ namespace PassportIssues.Services.Implementations
     public class ApplicationFormService : IApplicationFormService
     {
         #region Private Members
-        public readonly IApplicationFormRepository _repo;
+        protected readonly IApplicationFormRepository _repo;
         #endregion
+        public ApplicationFormService(IApplicationFormRepository repo)
+        {
+            _repo = repo;
+        }
         public async Task<Guid> AddAsync(FormModel request)
         {
             return await _repo.AddAsync(request);
